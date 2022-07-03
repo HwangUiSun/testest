@@ -11,7 +11,7 @@
 </head>
 <body>
 <div id='index'>
-	<h1>hi~ Spring boot !</h1>
+	<h1>안녕하십니까!</h1>
 	
 
 	<c:choose>
